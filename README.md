@@ -45,7 +45,7 @@ Ce projet est une application web complète développée en **Java (JSP/Servlets
 ## 🧠 Auteurs
 
 Développé par **Roméo Mahefa**, étudiant en Licence 3 Informatique  
-🔗 [Profil LinkedIn](https://www.linkedin.com/in/romeo-mahefaromeo-3b4663362/)
+🔗 [Profil LinkedIn](https://www.linkedin.com/in/mahefaromeo-irivelo-3b4663362/)
 
 ---
 
